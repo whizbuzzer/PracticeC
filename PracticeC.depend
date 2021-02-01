@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601267147 source:c:\users\anipr\desktop\year 2\research\c_cpp\practicec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601265682 source:c:\users\anipr\desktop\year 2\research\c_cpp\practicec\shape.c
+	<stdio.h>
+	<stdlib.h>
+
